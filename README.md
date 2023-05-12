@@ -1,5 +1,4 @@
-<h1 align="center"><strong>🖖🏽 Olá, eu sou <p><a href="https://www.linkedin.com/in/bárbara-nunes-a02213233/" >Bárbara Nunes</a>
-para enviar um e-mail.</p> 🖖🏽</strong></h1>
+<h1 align="center"><strong>🖖🏽 Olá, eu sou <a href="https://www.linkedin.com/in/bárbara-nunes-a02213233/" >Bárbara Nunes</a>🖖🏽</strong></h1>
 
 - 🔭 Atualmente estudando para área de dados.
 - 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas pela UniCesumar.
